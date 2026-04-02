@@ -55,7 +55,7 @@ This project showcases my skills, projects, and experience as a frontend develop
 git clone https://github.com/arpitpaatni2007-jpg/portfolio_website
 
 # Navigate into the folder
-cd your-repo-name
+cd https://github.com/arpitpaatni2007-jpg/portfolio_website
 
 # Open index.html in browser
 ```
